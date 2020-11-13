@@ -1,0 +1,53 @@
+
+
+ 
+
+
+.App .img {   
+    max-width: 300px;
+    max-height: 300px;
+    border: solid 2px;
+   
+    
+}
+.App>Button :hover{
+
+  width: 90px;
+}
+
+
+.App  {
+
+    flex: 0.1;
+   
+    display: flex;
+
+}.b1>Button:hover{
+   background-color: yellow;
+   width: 90px;
+   
+}
+ .buttons>Button:hover{
+   background-color: rgb(239, 15, 247);
+   width: 90px;
+}
+ .b2>Button:hover{
+   background-color: greenyellow;
+   width: 90px;
+}
+.b3>Button:hover{
+   background-color: red;
+   width: 90px;
+}
+
+.sp2{
+ 
+
+  padding-top: 600px;
+}
+.of{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
